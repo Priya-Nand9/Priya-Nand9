@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Priya-Nand9
+- 👋 Hi, I’m Priya Nand
 - 👀 I’m interested in exploring the intersections of technology, data, and creativity.
 - 🌱 I’m currently learning new techniques in data visualization and enhancing my Flutter skills.
 - 💞️ I’m looking to collaborate on  innovative projects that make a positive impact.
